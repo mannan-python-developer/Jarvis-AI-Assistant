@@ -25,7 +25,7 @@ Jarvis is a voice-controlled AI assistant implemented in Python. It leverages va
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mannan258/Jarvis-AI-Assistant.git
+   git clone https://github.com/mannan-python-developer/Jarvis-AI-Assistant.git
    cd jarvis-ai
 
 2. **Configure API keys:**
